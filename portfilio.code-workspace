@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "/Users/chad/Downloads/html5up-stellar (1)/images"
+		},
+		{
+			"name": "portfolio-website",
+			"path": "/Users/chad/Documents/portfolio-website"
+		},
+		{
+			"name": "assets",
+			"path": "/Users/chad/Downloads/html5up-stellar (1)/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio-website"
+	}
+}
